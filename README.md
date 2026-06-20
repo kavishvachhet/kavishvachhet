@@ -6,6 +6,12 @@
   <a href="https://www.linkedin.com/in/kavish-vachheta-514474372/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://leetcode.com/u/Kavish_Vachheta/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/Kavish_Vachheta_01" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
 </p>
 
 ---
@@ -46,10 +52,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub & Coding Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kavishvachhet&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Kavish's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Kavish_Vachheta?theme=tokyonight&font=Inter&ext=activity" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
