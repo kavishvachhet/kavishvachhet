@@ -76,17 +76,13 @@
 <details open>
   <summary><h3>📊 GitHub & Coding Stats</h3></summary>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kavishvachhet&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Kavish's GitHub Stats" />
-  </p>
-
-  <p align="center">
-    <img src="https://leetcard.jacoblin.cool/Kavish_Vachheta?theme=dark&font=Inter" alt="LeetCode Stats" />
-  </p>
-
-  <p align="center">
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kavishvachhet&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="195" alt="Kavish's GitHub Stats" />
+    &nbsp;
+    <img src="https://leetcard.jacoblin.cool/Kavish_Vachheta?theme=dark&font=Inter" height="195" alt="LeetCode Stats" />
+    <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavishvachhet&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </p>
+  </div>
 
 </details>
 
