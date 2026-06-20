@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Kavish_Vachheta?theme=tokyonight&font=Inter&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Kavish_Vachheta?theme=tokyonight&font=Inter" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
